@@ -9,7 +9,6 @@
 |test1|test2|test3|
 
 [NKUST](https://www.nkust.edu.tw/)
-<https://www.nkust.edu.tw/>
 
 ![???](https://s.yimg.com/ny/api/res/1.2/cLKJVVzPOLmCPrhi2BIzjQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTY2My44Mjk3ODcyMzQwNDI2/https://s.yimg.com/uu/api/res/1.2/jhuk9fDPrUKjqaGHDUOXvQ--~B/aD02NTA7dz05NDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/dailytopshare.tumblr.com/82b761c2263f696b661288a8ee10605a)
 
